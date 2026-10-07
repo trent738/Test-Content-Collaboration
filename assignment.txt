@@ -1,0 +1,16 @@
+Problem:
+Students not getting to class on time
+Solution:
+Reminder app notify the user when to leave for their class
+
+Inputs:
+ - User’s current location
+ - Classes’ locations & times
+Outputs:
+ - Messages in the form of notifications
+
+Trustworthy issue:
+ - App constantly has the student's location
+
+Other issue:
+ - Nobody likes to be nagged, so we have to make the notifs not annoying
